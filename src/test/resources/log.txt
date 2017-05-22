@@ -1,0 +1,8 @@
+level=info response_body="" request_to="https://url1.br" response_headers="" response_status="200"
+level=info response_body="" request_to="https://url2.br" response_headers="" response_status="201"
+level=info response_body="" request_to="https://url3.br" response_headers="" response_status="500"
+level=info response_body="" request_to="https://url1.br" response_headers="" response_status="200"
+linha fora do padrao
+level=info response_body="" request_to="https://url1.br" response_headers="" response_status="500"
+level=info response_body="" request_to="https://url2.br" response_headers="" response_status="201"
+level=info response_body="" request_to="https://url4.br" response_headers="" response_status="201"
